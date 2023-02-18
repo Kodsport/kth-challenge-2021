@@ -1,0 +1,7 @@
+author: Björn Martinsson
+license: cc by-sa
+source: KTH Challenge 2021
+
+limits:
+   time_multiplier: 1.7
+   time_safety_margin: 3

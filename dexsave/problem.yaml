@@ -1,0 +1,8 @@
+author: Per Austrin
+source: KTH Challenge 2021
+license: cc by-sa
+
+validator_flags: float_tolerance 1e-6
+
+limits:
+   time_multiplier: 2 # per.py slow

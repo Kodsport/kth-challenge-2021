@@ -1,0 +1,9 @@
+INT(0, 30, d) SPACE INT(-10, 10, m) NEWLINE
+
+REGEX("straight|advantage|disadvantage") NEWLINE
+
+INT(0, 5, k)
+REP(k)
+   REGEX(" [+-]d") INT(3, 10)
+END
+NEWLINE
